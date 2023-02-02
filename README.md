@@ -1,1 +1,1 @@
-# KDD_2023_FedDEP
+# FedDEP
