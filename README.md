@@ -1,7 +1,7 @@
 # FedDEP
 Here are the source files for FedDEP. Our implementation is built on FederatedScope [1].
 
-To run our FedDEP pipeline demo on Cora dataset with 5 clients, please follow these four steps.
+To run our FedDEP pipeline demo on Cora dataset with 5 clients, please follow these six steps.
 
 1. Please download this project to your directory `path/to/FedDEP/`;
 
