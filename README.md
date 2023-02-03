@@ -1,6 +1,10 @@
 # FedDEP
 Here are the source files for FedDEP. Our implementation is built on FederatedScope [1].
-Please follow these steps to run our FedDEP pipeline demo on the Cora dataset with five clients.
+
+Code of FedDEP pipeline is under `FedDEP/FederatedScope/federatedscope/gfl/feddep` directory.
+
+
+Please follow these steps to run our FedDEP demo on the Cora dataset with five clients.
 
 1. Please download this project to your directory `path/to/FedDEP/`;
 
@@ -14,7 +18,10 @@ Please follow these steps to run our FedDEP pipeline demo on the Cora dataset wi
 
 6. After finishing the environment configuration, you can run FedDEP with the command `python main.py --cfg feddep_on_cora5.yaml`.
 
+
 You may modify different values in the ".yaml" file to simulate different scenarios. 
+
+
 
 For more instructions on FederatedScope, please refer to [https://federatedscope.io](https://federatedscope.io)
 
