@@ -3,6 +3,7 @@ Here are the source files for FedDEP. Our implementation is built on FederatedSc
 
 Code of FedDEP pipeline is under `FedDEP/FederatedScope/federatedscope/gfl/feddep` directory.
 
+Implementations of FedDEP components are in `FedDEP/FederatedScope/federatedscope/gfl/model/feddep.py` and `FedDEP/FederatedScope/federatedscope/gfl/model/sage.py`.
 
 Please follow these steps to run our FedDEP demo on the Cora dataset with five clients.
 
