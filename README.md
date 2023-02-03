@@ -14,7 +14,7 @@ Please follow these steps to run our FedDEP demo on the Cora dataset with five c
 
 4. Type the command `cd path/to/FedDEP/FederatedScope/federatedscope`;
 
-5. You may need to create the environment to run FedDEP via the command `conda env create --file path/to/FedDEP/FederatedScope/environment_packages.txt`
+5. You may need to create the environment to run FedDEP via the command `conda env create --file path/to/FedDEP/FederatedScope/environment_packages.txt`;
 
 6. After finishing the environment configuration, you can run FedDEP with the command `python main.py --cfg feddep_on_cora5.yaml`.
 
@@ -23,6 +23,6 @@ You may modify different values in the ".yaml" file to simulate different scenar
 
 
 
-For more instructions on FederatedScope, please refer to [https://federatedscope.io](https://federatedscope.io)
+For more instructions on FederatedScope, please refer to [https://federatedscope.io](https://federatedscope.io).
 
 [1] Wang, Zhen, et al. "Federatedscope-gnn: Towards a unified, comprehensive and efficient package for federated graph learning." Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022.
