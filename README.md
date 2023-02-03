@@ -6,7 +6,7 @@ To run our FedDEP pipeline demo on Cora dataset with 5 clients, please follow th
 
 1. Please download this project to your directory "path/to/FedDEP/";
 
-2. Please open `path/to/FedDEP/FederatedScope/federatedscope/main.py` and modify the "path/to/FedDEP/FederatedScope/" in line 3 to your actual path;
+2. Please open `path/to/FedDEP/FederatedScope/federatedscope/main.py` and modify the `path/to/FedDEP/FederatedScope/` in line 3 to your actual path;
 
 2. Type the command `cd path/to/FedDEP/FederatedScope/federatedscope`;
 
